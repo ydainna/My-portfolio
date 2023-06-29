@@ -1,0 +1,40 @@
+{
+  "translate-button": {
+    "fr": "Français",
+    "en": "English"
+  },
+  "navbar": {
+    "tooltip": {
+      "available": "I am available",
+      "unavailable": "I am unavailable"
+    }
+  },
+  "home": {
+    "about": {
+      "title": "Hi there 👋, my name is Valentin",
+      "subTitle": "I'm a Fullstack Developer",
+      "text": "Passionate about <StyledText>web and mobile development.</StyledText> I love learning new things. I am always looking for new challenges and new opportunities.<br /><br /> Being <StyledText>creative</StyledText> and <StyledText>curious</StyledText>, I like to create things and solve problems. I also like working in a team and sharing my knowledge<br /><br />I also learned to use tools like <StyledText>Git, Github, VScode, Figma, Canva...</StyledText> As well as CI/CD tools like <StyledText>Github Actions...</StyledText><br /><br />Feel free to contact me.",
+      "buttonContact": "Contact me",
+      "tooltip": {
+        "buttonDiscordDefault": "Copy my Discord username",
+        "buttonDiscordCopied": "Username copied !",
+        "buttonCv": "Download my CV"
+      }
+    },
+    "stack": {
+      "titleFront": "My stacks",
+      "titleBack": "My stacks"
+    },
+    "projects": {
+      "title": "My latest projects",
+      "buttonLink": "See the project",
+      "arena": {
+        "title": "Arena Returns",
+        "description": "Arena Returns is a project initiated by fans of Dofus Arena. Two of us founded the project. Currently, there are 4 developers, 1 graphic designer, 1 community manager and 1 moderator behind the project. After discussions with Ankama, we are officially authorised to carry out this project on condition that it remains totally free and non-profit-making."
+      }
+    }
+  },
+  "layout": {
+    "buttonBackToTop": "Back to top"
+  }
+}
