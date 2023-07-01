@@ -21,7 +21,7 @@ export class Constants {
   static readonly AVAILABLE: boolean = true;
   static readonly MAIL: string = import.meta.env.VITE_CONTACT_MAIL as string;
 
-  //Reseau lin k
+  //Reseau link
   static readonly LINKEDIN: string = import.meta.env.VITE_CONTACT_LINKEDIN as string;
   static readonly GITHUB: string = import.meta.env.VITE_CONTACT_GITHUB as string;
   static readonly TWITTER: string = import.meta.env.VITE_CONTACT_TWITTER as string;

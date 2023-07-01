@@ -21,7 +21,6 @@ const Home = () => {
     <>
       <Layout>
         <Box
-          id="back-to-top-anchor"
           component="main"
           sx={{
             flexGrow: 1,
