@@ -7,8 +7,8 @@ const Footer = () => {
       sx={{
         backgroundColor: "redColor.800",
         color: "white",
-        py: 2,
-        px: 4,
+        py: 3,
+        px: 2,
       }}
     >
       <Stack direction="row" justifyContent="space-between">

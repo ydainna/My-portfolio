@@ -1,21 +1,41 @@
 import { Box, Container } from "@mui/material";
 import Layout from "@layout/Layout";
+import NotFoundError from "@sections/NotFound/NotFound-error";
 
 const NotFound = () => {
   return (
-    <Layout>
-      <Box
-        component="main"
-        sx={{
-          flexGrow: 1,
-          py: 8,
-        }}
-      >
-        <Container maxWidth="xl">
-          <h1>404</h1>
-        </Container>
-      </Box>
-    </Layout>
+    <>
+      <Layout>
+        <Box
+          sx={{
+            flexGrow: 1,
+            py: 8,
+          }}
+        >
+          <Container maxWidth="sm">
+            <NotFoundError />
+          </Container>
+        </Box>
+      </Layout>
+      {/*
+ __                 
+'. \  🅷🅴🅻🅻🅾, 🅼🆈 🅽🅰🅼🅴 🅸🆂 🅴🅻🅼🅴🆁 ❗
+ '- \               
+  / /_         .---.
+ / | \\,.\/--.//    )
+ |  \//        )/  / 
+  \  ' ^ ^    /    )____.----..  6
+   '.____.    .___/            \._) 
+      .\/.                      )
+       '\                       /
+       _/ \/    ).        )    (
+      /#  .!    |        /\    /
+      \  C// #  /'-----''/ #  / 
+   .   'C/ |    |    |   |    |  ,
+   \), .. .'OOO-'. ..'OOO'OOO-'. ..\(,
+   
+*/}
+    </>
   );
 };
 
