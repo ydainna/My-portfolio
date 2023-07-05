@@ -25,6 +25,8 @@ const Home = () => {
           sx={{
             flexGrow: 1,
             py: 8,
+            minHeight: "100vh",
+            display: "flex",
           }}
         >
           <Container maxWidth="xl">

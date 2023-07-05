@@ -10,6 +10,9 @@ const NotFound = () => {
           sx={{
             flexGrow: 1,
             py: 8,
+            minHeight: "100vh",
+            display: "flex",
+            flexDirection: "column",
           }}
         >
           <Container maxWidth="sm">
