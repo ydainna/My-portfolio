@@ -24,6 +24,9 @@ export function createComponents({ palette }: Config) {
           backgroundColor: "hsl(220, 41%, 45%)",
           color: common.white,
         },
+        body: {
+          margin: 0,
+        },
       },
     },
     MuiOutlinedInput: {
