@@ -20,7 +20,7 @@ const ProjectCard = ({ title, description, picture, isDisableWeb, isDisableGit, 
           <CardMedia
             component="img"
             image={picture}
-            alt="Paella dish"
+            alt={title}
             sx={{
               height: 140,
             }}
