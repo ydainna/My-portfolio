@@ -16,7 +16,7 @@
     "@mui/icons-material": "^5.14.3",
     "@mui/material": "^5.14.3",
     "devicon": "^2.15.1",
-    "flag-icons": "^6.9.2",
+    "flag-icons": "^6.9.3",
     "i18next": "^23.4.1",
     "i18next-browser-languagedetector": "^7.1.0",
     "lottie-react": "^2.4.0",
