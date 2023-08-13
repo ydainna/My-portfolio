@@ -4,6 +4,8 @@ import GitHubIcon from "@mui/icons-material/GitHub";
 import LinkIcon from "@mui/icons-material/Link";
 import { useTranslation } from "react-i18next";
 import { ICardProject } from "@utils/types/ICardProject";
+import Lottie from "lottie-react";
+import picture_notfound from "@assets/lotties/picture-notfound.json";
 
 const ProjectCard = ({ title, description, picture, isDisableWeb, isDisableGit, webLink, gitLink }: ICardProject) => {
   const { t } = useTranslation();
@@ -17,14 +19,18 @@ const ProjectCard = ({ title, description, picture, isDisableWeb, isDisableGit, 
             flexDirection: "column",
           }}
         >
-          <CardMedia
-            component="img"
-            image={picture}
-            alt={title}
-            sx={{
-              height: 140,
-            }}
-          />
+          {picture ? (
+            <CardMedia
+              component="img"
+              image={picture}
+              alt={title}
+              sx={{
+                height: 140,
+              }}
+            />
+          ) : (
+            <Lottie animationData={picture_notfound} style={{ height: "12.10vh" }} />
+          )}
           <CardHeader
             title={title}
             sx={{
