@@ -25,7 +25,7 @@ const ProjectCard = ({ title, description, picture, isDisableWeb, isDisableGit, 
               image={picture}
               alt={title}
               sx={{
-                height: 140,
+                height: "12.10vh",
               }}
             />
           ) : (

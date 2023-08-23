@@ -10,4 +10,13 @@ export const project = [
     webLink: "https://arena-returns.com",
     gitLink: "https://github.com/ArenaReturns",
   },
+  {
+    id: 2,
+    name: "saigyou",
+    picture: "",
+    isDisableWeb: false,
+    isDisableGit: false,
+    webLink: "https://saigyou-ayakash.com/",
+    gitLink: "https://github.com/ydainna/saigyou-ayakash",
+  },
 ];

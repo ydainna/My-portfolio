@@ -31,6 +31,10 @@
       "arena": {
         "title": "Arena Returns",
         "description": "Arena Returns, c'est un projet initié par des fans de Dofus Arena. Nous sommes deux à avoir fondé le projet. Actuellement, nous sommes 4 développeurs, 1 graphiste, 1 Community Manager, et 1 Modérateur derrière le projet. Après avoir discuté avec Ankama, nous sommes officiellement autorisés à mener ce projet à bien à condition qu'il reste totalement gratuit et à but non lucratif."
+      },
+      "saigyou": {
+        "title": "Saigyou ayakash",
+        "description": "Saigyou ayakash est un site/application personnel pour la gestion de ma collection de figurines. Celui-ci permet d'ajouter, supprimer, modifier une figurine. Il permet également d'avoir des statistiques globales sur la collection comme le prix total, le nombre de figurines, ainsi que la date du dernier ajout. Enfin, il y a aussi une liste de souhaits pour de futurs achats."
       }
     }
   },
