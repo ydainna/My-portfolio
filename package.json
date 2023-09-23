@@ -16,7 +16,7 @@
     "@mui/icons-material": "^5.14.9",
     "@mui/material": "^5.14.10",
     "devicon": "^2.15.1",
-    "flag-icons": "^6.11.0",
+    "flag-icons": "^6.11.1",
     "i18next": "^23.5.1",
     "i18next-browser-languagedetector": "^7.1.0",
     "lottie-react": "^2.4.0",
@@ -27,16 +27,16 @@
   },
   "devDependencies": {
     "@types/node": "^18.17.15",
-    "@types/react": "^18.2.21",
+    "@types/react": "^18.2.22",
     "@types/react-dom": "^18.2.7",
     "@typescript-eslint/eslint-plugin": "^6.7.2",
     "@typescript-eslint/parser": "^6.7.2",
     "@vitejs/plugin-react-swc": "^3.3.2",
-    "eslint": "^8.49.0",
+    "eslint": "^8.50.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
     "typescript": "^5.2.2",
     "vite": "^4.4.9",
-    "vite-plugin-svgr": "^3.2.0"
+    "vite-plugin-svgr": "^4.0.0"
   }
 }
