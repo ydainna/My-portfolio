@@ -14,7 +14,7 @@
     "@emotion/styled": "^11.11.0",
     "@fontsource/roboto": "^5.0.8",
     "@mui/icons-material": "^5.14.16",
-    "@mui/material": "^5.14.17",
+    "@mui/material": "^5.15.3",
     "devicon": "^2.15.1",
     "flag-icons": "^6.15.0",
     "i18next": "^23.7.6",
