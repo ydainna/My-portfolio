@@ -4,7 +4,7 @@ import { IconButton, Box, Card, CardContent, CardHeader, Typography, SvgIcon, Bu
 import EmailIcon from "@mui/icons-material/Email";
 import StyledText from "@components/text/StyledText";
 import { Constants } from "@utils/Constants";
-import { ReactComponent as Discord } from "@assets/icons/discord.svg";
+import Discord from "@assets/icons/discord.svg?react";
 import SimCardDownloadIcon from "@mui/icons-material/SimCardDownload";
 
 const HomPresentation = () => {

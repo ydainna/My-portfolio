@@ -3,7 +3,7 @@ import { Badge, Typography, Tooltip, Box, Stack, SvgIcon, useMediaQuery, Menu, M
 import { alpha } from "@mui/material/styles";
 import { items } from "@layout/Config";
 import TopNavItem from "@layout/TopNav-item";
-import { ReactComponent as Logo } from "@assets/images/logo.svg";
+import Logo from "@assets/images/logo.svg?react";
 import SelectLanguage from "@components/language/SelectLanguage";
 import MoreVertIcon from "@mui/icons-material/MoreVert";
 import { useTranslation } from "react-i18next";
