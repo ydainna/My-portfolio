@@ -5,9 +5,9 @@ export const project = [
     id: 1,
     name: "arena",
     picture: ArenaPicture,
-    isDisableWeb: false,
+    isDisableWeb: true,
     isDisableGit: false,
-    webLink: "https://arena-returns.com",
+    webLink: "https://arenareturns.com",
     gitLink: "https://github.com/ArenaReturns",
   },
   {
