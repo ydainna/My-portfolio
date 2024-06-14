@@ -20,7 +20,7 @@ const App = () => {
               \\  C// #  /'-----''/ #  / 
            .   'C/ |    |    |   |    |  ,
            \\), .. .'OOO-'. ..'OOO'OOO-'. ..\\(,
-        Nellfgfdgdfie the elephant packed her trunk and 🐘
+        Nellie the elephant packed her trunk and 🐘
         said goodbye to the circus 🎪
         Off she went with a trumpety-trump 🎺
         Trump, trump, trump 🎶🎵
