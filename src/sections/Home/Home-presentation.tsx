@@ -54,7 +54,7 @@ const HomPresentation = () => {
           >
             <Stack direction="row" spacing={2} justifyContent="flex-end">
               <Tooltip arrow title={t("home.about.tooltip.buttonCv")}>
-                <IconButton color="secondary" size="small" component="a" href={"/cv.pdf"} target="_blank" rel="noopener noreferrer">
+                <IconButton color="secondary" size="small" component="a" href={"/cv-1721575915.pdf"} target="_blank" rel="noopener noreferrer">
                   <SvgIcon fontSize="large">
                     <SimCardDownloadIcon />
                   </SvgIcon>
